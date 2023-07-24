@@ -1,4 +1,4 @@
-# Dopamine-and-movement
+# Dopamine-and-movement analysis (READ ME)
 Exploration of dopamine and movement in rats. The page contains relevant code and data analysis on a Pavlovian reward paradigm.
 
 Python envirnment is needed to run the analysis.
